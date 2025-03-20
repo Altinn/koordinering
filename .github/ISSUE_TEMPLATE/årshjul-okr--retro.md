@@ -2,7 +2,7 @@
 name: 'Årshjul OKR: Retro'
 about: Describe this issue template's purpose here.
 title: 'Årshjul OKR: Retro'
-labels: Årshjul OKR
+labels: ''
 assignees: arild-65
 
 ---

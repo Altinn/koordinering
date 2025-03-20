@@ -2,7 +2,7 @@
 name: 'Årshjul OKR: Samhandlingsmøte'
 about: Describe this issue template's purpose here.
 title: 'Årshjul OKR: Samhandlingsmøte'
-labels: Årshjul OKR
+labels: ''
 assignees: arild-65
 
 ---

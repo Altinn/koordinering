@@ -1,8 +1,8 @@
 ---
-name: 'Årshjul OKR: Resultatmøte'
+name: 'Årshjul OKR: Planlegge resultatmøter'
 about: Describe this issue template's purpose here.
 title: 'Årshjul OKR: Resultatmøte'
-labels: Årshjul OKR
+labels: ''
 assignees: arild-65
 
 ---
