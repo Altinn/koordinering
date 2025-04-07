@@ -1,6 +1,6 @@
 ---
 name: Epic - Verktøyforvaltning Q
-about: Brukes for å sette opp Epic
+about: Lisens- og tilgangsrevisjon
 title: Verktøyforvaltning Q
 labels: Verktøyforvaltning
 assignees: ''
