@@ -1,8 +1,8 @@
 ---
 name: Epic - Dokumentasjonsforvaltning Q
-about: Describe this issue template's purpose here.
+about: Lisens- og tilgangsrevisjon, oppdatering retningslinjer
 title: Dokumentasjonsforvaltning Q
-Beskrivelse: Lisens- og tilgangsrevisjon, oppdatering retningslinjer
+description: Lisens- og tilgangsrevisjon, oppdatering retningslinjer
 labels: Dokumentasjonsforvaltning
 assignees: ''
 
