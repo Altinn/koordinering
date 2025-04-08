@@ -1,8 +1,8 @@
 ---
 name: Epic - Dokumentasjonsforvaltning Q
-about: Lisens- og tilgangsrevisjon, oppdatering retningslinjer
+about: Revisjon og versjonskontroll, arkivering/sletting
 title: Dokumentasjonsforvaltning Q
-labels: Lisens - tilgangsrevisjon og retningslinjer
+labels: Revisjon og versjonskontroll
 type: Epic
 assignees: ''
 
