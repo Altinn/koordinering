@@ -2,8 +2,8 @@
 name: 'Baksia: Innmelding av enkle endringer'
 about: Hensikten er at det skal være enkelt å melde inn endringer for teamet
 title: 'Baksia: Innmelding av enkle endringer'
-labels: Verktøyforvaltning
-assignees: borrehovstol
+labels: Informasjonsforvaltning, Verktøyforvaltning
+assignees: borrehovstol, arild-65
 
 ---
 
