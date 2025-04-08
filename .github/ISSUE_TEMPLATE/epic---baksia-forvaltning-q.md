@@ -2,7 +2,7 @@
 name: Epic - Baksia forvaltning Q
 about: Forvaltning Baksia
 title: Baksia forvaltning Q
-labels: ''
+labels: Oppdatering Baksia (ansvarlig)
 assignees: ''
 
 ---
