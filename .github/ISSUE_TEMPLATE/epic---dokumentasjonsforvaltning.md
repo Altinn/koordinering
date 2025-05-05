@@ -1,0 +1,10 @@
+---
+name: Epic - Dokumentasjonsforvaltning
+about: Revisjon og versjonskontroll, arkivering/sletting
+title: Dokumentasjonsforvaltning Q
+labels: Revisjon og versjonskontroll, Tilgangsrevisjon
+assignees: ''
+
+---
+
+
