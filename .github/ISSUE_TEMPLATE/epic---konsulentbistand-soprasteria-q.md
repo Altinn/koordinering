@@ -1,7 +1,7 @@
 ---
-name: Epic - Risiko
+name: Epic - Konsulentbistand SopraSteria Q
 about: Describe this issue template's purpose here.
-title: Risiko Q
+title: Konsulentbistand SopraSteria Q
 labels: ''
 assignees: ''
 
