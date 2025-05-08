@@ -10,6 +10,6 @@ assignees: ''
 
 Ønsker å sende ut mail med informasjon om og sjekkliste for å oppdatere [teamside på Baksia](https://baksia.digdir.no/teams/). 
 
-- [ ] Tilrettelegg loops i teams - sjekk at alle ansvarlig er med i teams-chatten
+- [ ] Opprett mail til de ansvarlig for hver side på bakgrunn av ansvarsmatrisen
 - [ ] Legg inn forhåndsdefinert mailtekst som ligger under rutiner
 - [ ] Følg opp og purr dersom svar ikke mottas.
