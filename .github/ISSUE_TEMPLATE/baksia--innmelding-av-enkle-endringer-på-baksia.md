@@ -1,6 +1,6 @@
 ---
-name: 'Baksia: Innmelding av enkle endringer'
-about: Hensikten er at det skal være enkelt å melde inn endringer for teamet
+name: 'Baksia: Innmelding av enkle endringer på Baksia'
+about: Hensikten er at det skal være enkelt å melde inn endringer til teamet
 title: 'Baksia: Innmelding av enkle endringer'
 labels: Baksia forvaltning
 assignees: arild-65, borrehovstol
