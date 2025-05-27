@@ -1,7 +1,7 @@
 ---
-name: 'Årshjul Baksia: Utsending av mail for gjennomgang av seksjonssiden'
-about: Brukes når vi skal sende mail til de som er ansvarlig for å oppdatere innhold
-  for sin seksjon på Baksia
+name: 'Årshjul Baksia: Utsending av teamsmelding for gjennomgang av seksjonssiden'
+about: Brukes når vi skal sende teamsmelding til de som er ansvarlig for å oppdatere
+  innhold for sin seksjon på Baksia
 title: 'Årshjul Baksia: Utsending av mail for gjennomgang av seksjonssiden'
 labels: ''
 assignees: ''
