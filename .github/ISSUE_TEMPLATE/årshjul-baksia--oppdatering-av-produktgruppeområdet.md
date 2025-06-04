@@ -2,7 +2,7 @@
 name: 'Årshjul Baksia: Oppdatering av produktgruppeområdet'
 about: Foreta en sjekk av området til produktgruppene på Baksia
 title: 'Årshjul Baksia: Oppdatering av produktgruppeområdet'
-labels: Aarshjul Baksia, Baksia forvaltning
+labels: Baksia forvaltning
 assignees: ''
 
 ---

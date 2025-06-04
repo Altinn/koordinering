@@ -2,7 +2,7 @@
 name: 'Årshjul Baksia: Oppdatering av templater laget for årshjul Baksia'
 about: Gjennomgå malene
 title: 'Årshjul Baksia: Oppdatering av templater laget for årshjul Baksia'
-labels: ''
+labels: Verktøyforvaltning
 assignees: ''
 
 ---

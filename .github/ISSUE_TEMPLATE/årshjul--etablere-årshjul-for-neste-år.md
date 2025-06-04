@@ -2,7 +2,7 @@
 name: 'Årshjul: Etablere årshjul for neste år'
 about: Denne issuen brukes på tvers av alle årshjulene
 title: 'Årshjul: Etablere årshjul for neste år'
-labels: Aarshjul Baksia, Baksia forvaltning
+labels: Baksia forvaltning
 assignees: ''
 
 ---
