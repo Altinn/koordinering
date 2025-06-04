@@ -12,4 +12,4 @@ assignees: ''
 - [ ] Gjennomgå malene
 - [ ] Gjør endringer etter behov
 
-[Malene endres i GitHub](https://github.com/Altinn/styringssystem/issues/templates/edit)
+[Malene endres i GitHub](https://github.com/Altinn/koordinering/issues/templates/edit)
