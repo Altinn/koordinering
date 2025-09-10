@@ -10,4 +10,4 @@ assignees: ''
 Ønsker at det blir foretatt en sjekk av lenker på Baksia
 
 ### Hva skal sjekkes:
-- [ ] Gjennomgå [rutinebeskrivelsen ](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3251634242/Lenkesjekk+p+Baksia?atlOrigin=eyJpIjoiOWRjMzk0YzdkODViNGY3ZjkyZmI0NmU2MWEyMTM4MjgiLCJwIjoiYyJ9) og foreta sjekk ihht til denne
+- [ ] Gjennomgå [rutinebeskrivelsen ](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3251634242/Lenkesjekk+p+Baksia?atlOrigin=eyJpIjoiMzE2ZjJmMjI1Mzk5NGUxNGE3MzhiMjk1NWZlY2ViZGYiLCJwIjoiYyJ9) og foreta sjekk ihht til denne
