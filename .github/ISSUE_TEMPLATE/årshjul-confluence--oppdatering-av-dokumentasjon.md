@@ -10,4 +10,4 @@ assignees: ''
 Ønsker at det sendes ut påminnelse om å oppdatere dokumentasjonsområder på Confluence til de som er ansvarlig for oppdateringen.
 
 Liste over områder som skal få påminnelse (denne vil utvides løpence)
--[ ] Swarmia - se (rutinebeskrivelse)[https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3523215432/Swarmia_?atlOrigin=eyJpIjoiYjJkZmZjNzllZDkxNGMyNTkxNjFhYWJjYjk2MjM3YTkiLCJwIjoiYyJ9]
+-[ ] Swarmia - [se rutine](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3523215432/Swarmia_?atlOrigin=eyJpIjoiYjJkZmZjNzllZDkxNGMyNTkxNjFhYWJjYjk2MjM3YTkiLCJwIjoiYyJ9)
