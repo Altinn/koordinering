@@ -2,7 +2,7 @@
 name: 'Årshjul Confluence: Oppdatering av dokumentasjon'
 about: Describe this issue template's purpose here.
 title: 'Årshjul Confluence: Oppdatering av dokumentasjon'
-labels: Aarshjul Confluence
+labels: Aarshjul Confluence, Confluence forvaltning
 assignees: ''
 
 ---
