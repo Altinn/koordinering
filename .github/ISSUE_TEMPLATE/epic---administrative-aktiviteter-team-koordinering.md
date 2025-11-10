@@ -1,7 +1,7 @@
 ---
-name: Epic - Årshjul team Koordinering
+name: Epic - Administrative aktiviteter team Koordinering
 about: Describe this issue template's purpose here.
-title: Årshjul team Koordinering Q
+title: Administrative aktiviteter team Koordinering Q
 labels: Adm. oppgaver, On-boarding, Opplæring
 assignees: ''
 
