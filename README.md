@@ -1,2 +1,2 @@
 # koordinering
-Backlog for enabling team styringssystem
+Backlog for enabling team koordinering
