@@ -1,6 +1,6 @@
 ---
 name: 'Årshjul Confluence: Oppdatering av dokumentasjon'
-about: Describe this issue template's purpose here.
+about: Utføres 1 gang i halvåret
 title: 'Årshjul Confluence: Oppdatering av dokumentasjon'
 labels: Aarshjul Confluence
 assignees: ''
