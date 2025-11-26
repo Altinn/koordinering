@@ -1,8 +1,8 @@
 ---
 name: Epic - Dokumentasjonsforvaltning Q
-about: Revisjon og versjonskontroll, arkivering/sletting
+about: Describe this issue template's purpose here.
 title: Dokumentasjonsforvaltning Q
-labels: Revisjon og versjonskontroll, Tilgangsrevisjon
+labels: Arkivering/sletting, Dokumentstruktur, Revisjon og versjonskontroll
 assignees: ''
 
 ---
