@@ -1,8 +1,9 @@
 ---
 name: Epic - Verktøyforvaltning Q
-about: Lisens- og tilgangsrevisjon
+about: Describe this issue template's purpose here.
 title: Verktøyforvaltning Q
-labels: Lisensgjennomgang, Tilgangsrevisjon
+labels: Brukerstøtte verktøy, Lisensgjennomgang, Oppdatere retningslinjer, Tilgangsrevisjon,
+  Verktøyevaluering, Verktøyopplæring
 assignees: ''
 
 ---
