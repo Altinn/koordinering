@@ -2,7 +2,7 @@
 name: 'Årshjul Confluence: Oppdatering av dokumentasjon'
 about: Utføres 1 gang i halvåret
 title: 'Årshjul Confluence: Oppdatering av dokumentasjon'
-labels: Aarshjul Confluence: Aarshjul
+labels: Aarshjul Confluence, Aarshjul
 assignees: ''
 
 ---
