@@ -11,6 +11,7 @@ assignees: ''
 
 Ønsker at det opprettes en Loop med informasjon om og sjekkliste for å oppdatere [teamside på Baksia](https://baksia.digdir.no/teams/). 
 
-- [ ] Opprett loop i teams til de ansvarlig for hver side på bakgrunn av ansvarsmatrisen
-- [ ] Følg [rutine](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3251437678/Oppdatering+av+team-sidene?atlOrigin=eyJpIjoiYWVlODY2M2IyYTQ0NDAyMzk5NWE2ZGFjMGE2Yjk1YjMiLCJwIjoiYyJ9)
+- [ ] Klargjøring for utsendel ihht til [rutine](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3251437678/Oppdatering+av+team-sidene?atlOrigin=eyJpIjoiM2I3ZTkyNDY0NTkxNDJjZjk0OWEyMGVkYTY4OWYzNjIiLCJwIjoiYyJ9)
+- se og [ansvarsmatrisen](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3206905913/Teamsidene?atlOrigin=eyJpIjoiOTVlMDgwZWE2ZTYxNDMwYmJmMDZkZDUxNTNiNzcyOTMiLCJwIjoiYyJ9)
+- [ ] Oppdater ansvarsmatrisen dersom det er endringer
 - [ ] Følg opp og purr dersom svar ikke mottas.

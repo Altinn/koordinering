@@ -1,7 +1,6 @@
 ---
 name: 'Årshjul Baksia: Utsending av teamsmelding for gjennomgang av seksjonssiden'
-about: Brukes når vi skal sende teamsmelding til de som er ansvarlig for å oppdatere
-  innhold for sin seksjon på Baksia
+about: Utføres en gang i kvartalet
 title: 'Årshjul Baksia: Utsending av mail for gjennomgang av seksjonssiden'
 labels: Aarshjul Baksia, Baksia forvaltning
 assignees: ''
