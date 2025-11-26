@@ -1,7 +1,7 @@
 ---
-name: 'Årshjul Baksia: Utsending av teamsmelding for gjennomgang av seksjonssiden'
+name: 'Årshjul Baksia: Utsending for gjennomgang av seksjonssiden'
 about: Utføres en gang i kvartalet
-title: 'Årshjul Baksia: Utsending av mail for gjennomgang av seksjonssiden'
+title: 'Årshjul Baksia: Utsending for gjennomgang av seksjonssiden'
 labels: Aarshjul Baksia, Baksia forvaltning
 assignees: ''
 
