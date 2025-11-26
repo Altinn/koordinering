@@ -2,7 +2,7 @@
 name: 'Årshjul Baksia: Oppdatering av templater laget for årshjul Baksia'
 about: Uføres 1 gang i halvåret
 title: 'Årshjul Baksia: Oppdatering av templater laget for årshjul Baksia'
-labels: Verktøyforvaltning
+labels: Aarshjul, Verktøyforvaltning
 assignees: ''
 
 ---

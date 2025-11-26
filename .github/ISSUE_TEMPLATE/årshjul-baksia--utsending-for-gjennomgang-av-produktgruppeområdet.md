@@ -2,7 +2,7 @@
 name: 'Årshjul Baksia: Utsending for gjennomgang av produktgruppeområdet'
 about: Utføres 1 gang i halvåret
 title: 'Årshjul Baksia: Utsending for gjennomgang av produktgruppeområdet'
-labels: Baksia forvaltning
+labels: Aarshjul, Baksia forvaltning
 assignees: ''
 
 ---
