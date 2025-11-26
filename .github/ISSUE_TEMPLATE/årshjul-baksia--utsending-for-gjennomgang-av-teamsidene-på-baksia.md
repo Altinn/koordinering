@@ -2,7 +2,7 @@
 name: 'Årshjul Baksia: Utsending for gjennomgang av teamsidene på Baksia'
 about: Utføres hver andre måned
 title: 'Årshjul Baksia: Utsending gjennomgang av teamsidene på Baksia'
-labels: Baksia forvaltning
+labels: Aarshjul, Baksia forvaltning
 assignees: ''
 
 ---
