@@ -2,7 +2,7 @@
 name: 'Årshjul: Etablere årshjul for neste år'
 about: Utføres i november/desember
 title: 'Årshjul: Etablere årshjul for neste år'
-labels: Aarshjul Baksia, Baksia forvaltning
+labels: Baksia forvaltning
 assignees: ''
 
 ---
