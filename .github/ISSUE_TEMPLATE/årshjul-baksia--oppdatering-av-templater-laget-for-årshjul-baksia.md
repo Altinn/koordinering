@@ -1,6 +1,6 @@
 ---
 name: 'Årshjul Baksia: Oppdatering av templater laget for årshjul Baksia'
-about: Gjennomgå malene
+about: Uføres 1 gang i halvåret
 title: 'Årshjul Baksia: Oppdatering av templater laget for årshjul Baksia'
 labels: Verktøyforvaltning
 assignees: ''
