@@ -2,7 +2,7 @@
 name: 'Årshjul Baksia: Oppdatering av ansvarsmatrise'
 about: Utføres hver andre måned
 title: 'Årshjul Baksia: Oppdatering av ansvarsmatrise'
-labels: Baksia forvaltning
+labels: Aarshjul, Baksia forvaltning
 assignees: ''
 
 ---
