@@ -1,6 +1,6 @@
 ---
 name: 'Årshjul Baksia: Lenkesjekk'
-about: Utføres en gang i kvartalet
+about: Foreta en lenkesjekk på Baksia
 title: 'Årshjul Baksia: Lenkesjekk'
 labels: Aarshjul Baksia, Baksia forvaltning
 assignees: ''
