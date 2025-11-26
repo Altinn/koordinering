@@ -1,6 +1,6 @@
 ---
 name: 'Årshjul Baksia: Oppdatering av ansvarsmatrise'
-about: Gjennomgå og oppdater ansvarsmatrisen
+about: Utførest hver andre måned
 title: 'Årshjul Baksia: Oppdatering av ansvarsmatrise'
 labels: Aarshjul Baksia, Baksia forvaltning
 assignees: ''
