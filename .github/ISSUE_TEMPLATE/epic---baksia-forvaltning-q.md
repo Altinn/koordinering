@@ -2,7 +2,7 @@
 name: Epic - Baksia forvaltning Q
 about: Forvaltning Baksia
 title: Baksia forvaltning Q
-labels: Revisjon og versjonskontroll
+labels: Endringslogg Baksia, Oppdatering ansvarlige, Revisjon, Versjonskontroll
 assignees: ''
 
 ---
