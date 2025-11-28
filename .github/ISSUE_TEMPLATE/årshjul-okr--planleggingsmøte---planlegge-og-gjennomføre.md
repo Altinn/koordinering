@@ -1,15 +1,14 @@
 ---
 name: 'Årshjul OKR: Planleggingsmøte - planlegge og gjennomføre'
-about: 1 gang hvert tertial, januar, mai og september (i begynnelsen)
-title: 'Årshjul OKR: Planleggingsmøte - planlegge og gjennomføre'
+about: Describe this issue template's purpose here.
+title: 'Årshjul OKR: Planleggingsmøte(r)'
 labels: Aarshjul OKR
-assignees: ''
+assignees: arild-65
 
 ---
 
-Forberedelsen til møtet:
-- [ ] Avklare deltakelse fra lederlaget
-- [ ] Etablere agenda for møtet
-- [ ] Utarbeide dokumentasjon for møtet
-- [ ] Gjennomføre møte
-- [ ] Retro for møtet
+Gjennomgå agenda for møtet
+- [ ] Innledning
+- [ ] Lederlaget presenterer status OKR
+- [ ] Hvordan skrive gode OKR'er
+- [ ] Evt

@@ -3,7 +3,7 @@ name: 'Årshjul OKR: Innkalle til møter i OKR-syklusen'
 about: Describe this issue template's purpose here.
 title: 'Årshjul OKR: Innkalle til møter i OKR-syklusen'
 labels: Aarshjul OKR
-assignees: arild-65
+assignees: ''
 
 ---
 
