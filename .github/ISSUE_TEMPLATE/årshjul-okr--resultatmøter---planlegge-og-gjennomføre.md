@@ -1,14 +1,17 @@
 ---
 name: 'Årshjul OKR: Resultatmøter - planlegge og gjennomføre'
-about: Describe this issue template's purpose here.
+about: Gjennomføres i midten av tertialet.
 title: 'Årshjul OKR: Resultatmøter - planlegge og gjennomføre'
-labels: Aarshjul OKR
-assignees: arild-65
+labels: Aarshjul OKR, Aarshjul
+assignees: ''
 
 ---
 
+Planlegging og gjennomføring av møtet
+- [ ] Avklare deltakelse fra lederlaget
+- [ ] Agenda for møtet
+- [ ] Utarbeide dokumentasjon
+- [ ] Gjennomføre møtet
+- [ ] Retro for møtet
+
 Resultatmøte i tertialet skal gi "en fot i bakken" ifht OKR'ene.
-- [ ] Innledning
-- [ ] Status OKR lederlaget
-- [ ] Status OKR i teamene
-- [ ] Evt
