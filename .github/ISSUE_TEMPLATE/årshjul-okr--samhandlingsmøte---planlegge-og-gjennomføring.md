@@ -1,14 +1,15 @@
 ---
 name: 'Årshjul OKR: Samhandlingsmøte - planlegge og gjennomføring'
-about: Describe this issue template's purpose here.
+about: Gjennomføres i begynnelsen av tertialet, like etter planleggingsmøtet.
 title: 'Årshjul OKR: Samhandlingsmøte - planlegge og gjennomføring'
-labels: Aarshjul OKR
-assignees: arild-65
+labels: Aarshjul OKR, Aarshjul
+assignees: ''
 
 ---
 
-Gjennomgå agenda for møtet
-- [ ] Innledning
-- [ ] Dialog om avhengigheter med andre team
-- [ ] Hva blokkerer teamets OKR'er (husk å legge inn OKR i Futureworks)
-- [ ] Evt
+Planlegging og gjennomføring av møtet
+- [ ] Avklare deltakelse fra lederlaget
+- [ ] Agenda for møtet
+- [ ] Utarbeide dokumentasjon
+- [ ] Gjennomføre møtet
+- [ ] Retro for møtet
