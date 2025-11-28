@@ -1,13 +1,15 @@
 ---
 name: 'Årshjul OKR: Innkalle til møter i OKR-syklusen'
-about: Describe this issue template's purpose here.
+about: Gjennomføres i november/desember.
 title: 'Årshjul OKR: Innkalle til møter i OKR-syklusen'
 labels: Aarshjul OKR, Aarshjul
 assignees: ''
 
 ---
 
-Ønsker at det kalles inn til Resultatmøtet i hvert tertial. Møtet et er "en fot i bakken" ifht OKR'ene.
+Ønsker at det kalles inn til møter i OKR-syklusen for hvert tertial.
 
-- [ ] Avklare dato(er) for møte(ne) - skal foregå ca midt i tertialet
-- [ ] Send ut innkalling til møte(ne) - legg ved evt lenker/dokumenter som skal benyttes
+- [ ] Avklare datoer for møtene
+- send innkalling for 1. tertial
+- send innkalling for 2. tertial
+- send innkalling for 3. tertial
