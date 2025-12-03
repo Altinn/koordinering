@@ -9,7 +9,6 @@ assignees: ''
 
 Ønsker at vi får tatt en sjekk på at informasjonen som ligger på området for [Produktgrupper](https://baksia.digdir.no/produktgrupper/).
 
-- [ ] Klargjøring for utsendel ihht til [rutine](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3276440237/Oppdatering+av+Produkgruppe-sidene?atlOrigin=eyJpIjoiZGE1NGU2YTgwNzNiNGU2ODlkZTk4ODgwY2U3YjcwNmIiLCJwIjoiYyJ9)
-- se og [ansvarsmatrisen](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3206905857/Ansvarsmatrise+Baksia?atlOrigin=eyJpIjoiNzJkYjZhNzI3M2E0NDFhN2JjZDhmYzZlYTUyMThiZTMiLCJwIjoiYyJ9)
-- [ ] Oppdater ansvarsmatrisen dersom det er endringer
+- [x] Opprett chat-melding i teams til de ansvarlig for hver side på bakgrunn av [ansvarsmatrisen](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3276144658/Produktgrupper?atlOrigin=eyJpIjoiNDk3Njc3ZTg5ODY0NDMxYWJjY2Q1N2MwNmRjYTYwMzIiLCJwIjoiYyJ9)
+- Legg inn tekst som ligger under [rutiner](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3276440237/Oppdatering+av+Produkgruppe-sidene?atlOrigin=eyJpIjoiM2E2MmM2NDc4YWI3NGU0NmI3Mjg1OGNjZjJhNmIzYzkiLCJwIjoiYyJ9)
 - [ ] Følg opp og purr dersom svar ikke mottas.
