@@ -2,7 +2,7 @@
 name: 'Årshjul OKR: Innkalle til møter i OKR-syklusen'
 about: Gjennomføres i november/desember.
 title: 'Årshjul OKR: Innkalle til møter i OKR-syklusen'
-labels: Aarshjul OKR, Aarshjul
+labels: Aarshjul OKR
 assignees: ''
 
 ---

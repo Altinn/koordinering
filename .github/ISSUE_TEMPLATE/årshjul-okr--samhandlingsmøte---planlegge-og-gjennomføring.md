@@ -2,7 +2,7 @@
 name: 'Årshjul OKR: Samhandlingsmøte - planlegge og gjennomføring'
 about: Gjennomføres i begynnelsen av tertialet, like etter planleggingsmøtet.
 title: 'Årshjul OKR: Samhandlingsmøte - planlegge og gjennomføring'
-labels: Aarshjul OKR, Aarshjul
+labels: Aarshjul OKR
 assignees: ''
 
 ---
