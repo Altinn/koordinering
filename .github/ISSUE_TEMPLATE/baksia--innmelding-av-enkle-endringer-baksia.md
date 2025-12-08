@@ -2,7 +2,7 @@
 name: 'Baksia: Innmelding av enkle endringer Baksia'
 about: Hensikten er at det skal være enkelt å melde inn endringer til teamet
 title: 'Baksia: Innmelding av enkle endringer'
-labels: Baksia forvaltning, Revisjon og versjonskontroll
+labels: Baksia forvaltning
 assignees: borrehovstol
 
 ---
