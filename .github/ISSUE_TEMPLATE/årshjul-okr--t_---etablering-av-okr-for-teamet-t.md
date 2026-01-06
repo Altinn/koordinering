@@ -1,5 +1,5 @@
 ---
-name: 'Årshjul OKR: Etablering av OKR for teamet T'
+name: 'Årshjul OKR: T_ - Etablering av OKR for teamet T'
 about: Brukes for når vi skal etablere nye OKR'er for team Koordinering
 title: 'Årshjul OKR: Etablering av OKR for teamet T'
 labels: Aarshjul OKR
