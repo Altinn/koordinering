@@ -9,5 +9,7 @@ assignees: ''
 
 Det skal etableres nye OKR'er for teamet inn mot neste tertiale. 
 
-- [ ] Gjennomgang av OKR som ligger i [boardet](https://jeff.futureworks.com/dashboard/group)
-- [ ] Etablere nye OKR'er for teamet
+- [ ] Scrum master kaller inn til forberedende møte - Teamleder og Scrummaster
+- [ ] Scrum master kaller inn til møte - hele teamet: 
+- Gjennomgang av OKR som ligger i [boardet](https://jeff.futureworks.com/dashboard/group)
+- Etablere nye OKR'er for teamet
