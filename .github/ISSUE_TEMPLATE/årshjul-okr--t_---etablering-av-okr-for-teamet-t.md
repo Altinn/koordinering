@@ -10,6 +10,7 @@ assignees: ''
 Det skal etableres nye OKR'er for teamet inn mot neste tertiale. 
 
 - [ ] Scrum master kaller inn til forberedende møte - Teamleder og Scrummaster
+- [ ] Gjøre avklaring slik at vi får en felles forståelse av hva som menes i OKR beskrevet av lederlaget
 - [ ] Scrum master kaller inn til møte - hele teamet: 
 - Gjennomgang av OKR som ligger i [boardet](https://jeff.futureworks.com/dashboard/group)
 - Etablere nye OKR'er for teamet
