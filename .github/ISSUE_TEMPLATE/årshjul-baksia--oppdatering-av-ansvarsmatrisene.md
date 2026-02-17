@@ -1,5 +1,5 @@
 ---
-name: 'Årshjul Baksia: Oppdatering av ansvarsmatrise'
+name: 'Årshjul Baksia: Oppdatering av ansvarsmatrisene'
 about: Utføres hver andre måned, med oppstart medio i mnd
 title: 'Årshjul Baksia: Oppdatering av ansvarsmatrise'
 labels: Aarshjul, Baksia forvaltning
@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Ønsker at dette etter hver utsendelse for gjennomgang av teamsiden på Baksia blir gjennomført en sjekk og evt oppdatering av [ansvarsmatrisen](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3206905857/Ansvarsmatrise+Baksia?atlOrigin=eyJpIjoiNzJkYjZhNzI3M2E0NDFhN2JjZDhmYzZlYTUyMThiZTMiLCJwIjoiYyJ9)
+Ønsker at det blir gjennomført en sjekk og evt oppdatering av [ansvarsmatrisen](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3206905857/Ansvarsmatrise+Baksia?atlOrigin=eyJpIjoiNzJkYjZhNzI3M2E0NDFhN2JjZDhmYzZlYTUyMThiZTMiLCJwIjoiYyJ9)
 
 Oppdater ansvarsmatrisen med informasjon fra Baksia
 - [ ] Forsiden
