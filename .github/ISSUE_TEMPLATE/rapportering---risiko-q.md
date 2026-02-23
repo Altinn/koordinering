@@ -1,5 +1,5 @@
 ---
-name: Epic - Risiko Q
+name: Rapportering - Risiko Q
 about: Describe this issue template's purpose here.
 title: Risiko Q
 labels: Oppdatering og revisjon av risiko-oversikt, Risikoanalyse, Risikovrudering,

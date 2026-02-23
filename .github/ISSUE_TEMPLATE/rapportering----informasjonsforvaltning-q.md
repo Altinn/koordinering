@@ -1,5 +1,5 @@
 ---
-name: Epic - Informasjonsforvaltning Q
+name: Rapportering  - Informasjonsforvaltning Q
 about: Describe this issue template's purpose here.
 title: Informasjonsforvaltning Q
 labels: Evaluering informasjonssikkerhet, Informasjonsklassifisering, Personvernvurdering,
