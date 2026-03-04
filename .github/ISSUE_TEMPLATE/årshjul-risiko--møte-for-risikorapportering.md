@@ -7,4 +7,11 @@ assignees: ''
 
 ---
 
+Ønsker at det gjennomføres møte knyttet til Risikorapportering.
 
+Formålet med møtet er en gjennomgang av risikorapportering per kvartal med avdelingsdirektør.
+
+- [ ] Kalle inn til møte
+- [ ] Forberedende møte med Team sikkerhet
+- [ ] Forbedrende møte med aktuelle team
+- [ ] Gjennomføre møtet.
