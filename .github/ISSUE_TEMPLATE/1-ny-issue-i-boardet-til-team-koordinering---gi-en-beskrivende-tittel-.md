@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-##Gi en beskrivelse av issuen som skal løses
+**Gi en beskrivelse av issuen som skal løses**
 
-##Hvem har kommet med innspillet/ønsket
+**Hvem har kommet med innspillet/ønsket**
 
-##[Lenke til Confluence-område for dokumentering](legg inn lenke mellom parentesene)
+**[Lenke til Confluence-område for dokumentering](legg inn lenke mellom parentesene)**
 
-##Taskliste
+**Taskliste**
 - [ ]
