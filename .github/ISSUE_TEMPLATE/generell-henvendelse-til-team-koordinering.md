@@ -11,8 +11,7 @@ Her kan du melde inn forslag til saker de mener team Koordinering skal vurdere. 
 
 For at vi skal kunne behandle denne saken er vi avhengig av at du legger inn en del informasjon i denne issuen:
 
-**Beskrivelse**
-- Gi en beskrivelse av hva saken gjelder
+**Beskrivelse** (hva saken gjelder):
 
 _______________________________________________________________________________________________________________
 
