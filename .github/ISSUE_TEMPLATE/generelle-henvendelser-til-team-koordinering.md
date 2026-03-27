@@ -4,6 +4,7 @@ about: Meld inn saker du mener team Koordinering skal behandle
 title: Generelle henvendelser til team Koordinering
 labels: ''
 assignees: ''
+projects: ["Team Koordinering"]
 
 ---
 
