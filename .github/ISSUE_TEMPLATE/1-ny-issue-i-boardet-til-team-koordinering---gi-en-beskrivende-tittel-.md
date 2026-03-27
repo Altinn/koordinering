@@ -5,7 +5,6 @@ title: Gi en god beskrivende tittel
 labels: ''
 assignees: ''
 projects: ''
-status: ''
 
 ---
 
