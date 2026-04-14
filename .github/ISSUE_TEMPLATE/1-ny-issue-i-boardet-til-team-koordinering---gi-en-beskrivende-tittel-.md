@@ -2,7 +2,7 @@
 name: '1 Ny issue i boardet til Team Koordinering - gi en beskrivende tittel '
 about: Describe this issue template's purpose here.
 title: Gi en god beskrivende tittel
-labels: Risiko
+labels: ''
 assignees: ''
 
 ---
