@@ -13,7 +13,7 @@ assignees: ''
 
 **Kilde:** hvem har kommet med innspillet/ønsket
 
-[Dokumentering/møtereferat/status i Confluence](legg inn lenke mellom parentesene)
+**[Dokumentering/møtereferat/status i Confluence](legg inn lenke mellom parentesene)**
 
 **Taskliste**
 - [ ]
