@@ -4,7 +4,7 @@ about: Describe this issue template's purpose here.
 title: Gi en god beskrivende tittel
 labels: ''
 assignees: ''
-status: ''
+status test: ''
 
 ---
 
