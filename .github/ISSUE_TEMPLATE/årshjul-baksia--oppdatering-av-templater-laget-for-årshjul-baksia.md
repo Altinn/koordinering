@@ -10,6 +10,6 @@ assignees: ''
 Ønsker at det gjøres en gjennomgang/oppdatering av malene som er opprettet knyttet til årshjulet
 
 - [ ] Gjennomgå malene
-- [ ] Gjør endringer etter behov
+- [ ] Gjør endringer ved behov
 
 [Malene endres i GitHub](https://github.com/Altinn/koordinering/issues/templates/edit)
