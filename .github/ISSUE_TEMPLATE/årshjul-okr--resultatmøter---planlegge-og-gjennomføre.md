@@ -3,7 +3,7 @@ name: 'Årshjul OKR: Resultatmøter - planlegge og gjennomføre'
 about: Gjennomføres i midten av tertialet.
 title: 'Årshjul OKR: Resultatmøter - planlegge og gjennomføre'
 labels: Aarshjul OKR
-assignees: ''
+assignees: arild-65
 
 ---
 

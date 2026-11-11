@@ -3,7 +3,7 @@ name: 'Årshjul OKR: Møte med OKR-ambassadørene'
 about: Gjennomføres en gang i måneden
 title: 'Årshjul OKR: Møte med OKR-ambassadørene'
 labels: Aarshjul
-assignees: ''
+assignees: arild-65
 
 ---
 

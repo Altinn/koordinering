@@ -3,7 +3,7 @@ name: 'Årshjul OKR: Planleggingsmøte - planlegge og gjennomføre'
 about: Gjennomføres i begynnelsen av hvert tertial.
 title: 'Årshjul OKR: Planleggingsmøte(r)'
 labels: Aarshjul OKR
-assignees: ''
+assignees: arild-65
 
 ---
 

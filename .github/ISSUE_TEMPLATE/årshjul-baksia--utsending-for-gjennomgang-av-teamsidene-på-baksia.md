@@ -3,7 +3,7 @@ name: 'Årshjul Baksia: Utsending for gjennomgang av teamsidene på Baksia'
 about: Utføres hver andre måned, med oppstart første halvdel av mnd
 title: 'Årshjul Baksia: Utsending gjennomgang av teamsidene på Baksia Q'
 labels: Aarshjul, Baksia forvaltning
-assignees: ''
+assignees: borrehovstol
 
 ---
 

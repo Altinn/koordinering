@@ -3,7 +3,7 @@ name: 'Årshjul OKR: Retro'
 about: Gjennomføres i slutten av tertialet.
 title: 'Årshjul OKR: Retro'
 labels: Aarshjul OKR
-assignees: ''
+assignees: arild-65
 
 ---
 

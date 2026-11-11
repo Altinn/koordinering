@@ -3,7 +3,7 @@ name: 'Årshjul Baksia: Oppdatering av templater laget for årshjul Baksia'
 about: Uføres 1 gang i halvåret
 title: 'Årshjul Baksia: Oppdatering av templater laget for årshjul Baksia'
 labels: Aarshjul, Verktøyforvaltning
-assignees: ''
+assignees: borrehovstol
 
 ---
 

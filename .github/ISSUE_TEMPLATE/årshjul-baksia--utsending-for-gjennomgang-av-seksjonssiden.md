@@ -3,7 +3,7 @@ name: 'Årshjul Baksia: Utsending for gjennomgang av seksjonssiden'
 about: Utføres en gang i kvartalet
 title: 'Årshjul Baksia: Utsending for gjennomgang av seksjonssiden Q'
 labels: Aarshjul, Baksia forvaltning
-assignees: ''
+assignees: borrehovstol
 
 ---
 

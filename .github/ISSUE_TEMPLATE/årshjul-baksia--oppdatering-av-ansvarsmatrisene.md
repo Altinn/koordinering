@@ -3,7 +3,7 @@ name: 'Årshjul Baksia: Oppdatering av ansvarsmatrisene'
 about: Utføres hver andre måned, med oppstart medio i mnd
 title: 'Årshjul Baksia: Oppdatering av ansvarsmatrise'
 labels: Aarshjul, Baksia forvaltning
-assignees: ''
+assignees: borrehovstol
 
 ---
 
